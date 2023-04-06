@@ -1,8 +1,6 @@
-<div align="center">
-<img src="./assets/xeramiya.svg" width=20% alt="Xeramiya Logo" />
-</div>
+# Xeramiya
 
----
+Hello!
 
 ## Meta Data
 
@@ -40,3 +38,7 @@ interest:
 ---
 
 visit! >> **_[xeramiya.net](https://www.xeramiya.net)_**
+
+<div align="right">
+<img src="./assets/xeramiya.svg" width=8% alt="Xeramiya Logo" />
+</div>
