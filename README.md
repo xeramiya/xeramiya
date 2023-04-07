@@ -1,6 +1,7 @@
 # Xeramiya
 
-Hello!
+Hello.
+I'm STill here!!
 
 ## Meta Data
 
@@ -37,8 +38,10 @@ interest:
 
 ---
 
-visit! >> **_[xeramiya.net](https://www.xeramiya.net)_**
+_visit! >> **[xeramiya.net](https://www.xeramiya.net)**_
 
 <div align="right">
+<a href="https://www.xeramiya.net">
 <img src="./assets/xeramiya.svg" width=8% alt="Xeramiya Logo" />
+</a>
 </div>
