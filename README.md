@@ -29,7 +29,6 @@ interest:
 
 ## (Deserted) Stats
 
-[![Xeramiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xeramiya&layout=compact&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/xeramiya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeramiya&layout=compact&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/xeramiya)
 
 ## Time to mix drinks and change lives.
