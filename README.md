@@ -3,32 +3,6 @@
 Hello.
 I'm STill here!!
 
-## Meta Data
-
-```YAML
-id: xeramiya
-
-name:
-  label: Xeramiya
-  phonetic:
-    ipa: seɾamʲja
-    jp: セラミヤ
-
-address:
-  planet: Earth
-  country: Japan
-  area: Musashino New Capital
-  city: Densai-Ku
-
-interest:
-  - Aircraft Warning Lights
-  - Tower Cranes
-  - Design
-  - Actual Reality
-```
-
-## (Deserted) Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xeramiya&layout=compact&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/xeramiya)
 
 ## Time to mix drinks and change lives.
@@ -40,7 +14,7 @@ interest:
 _visit! >> **[xeramiya.net](https://www.xeramiya.net)**_
 
 <div align="right">
-<a href="https://www.xeramiya.net">
-<img src="./assets/xeramiya.svg" width=8% alt="Xeramiya Logo" />
+<a href="https://xeramiya.net">
+<img src="./assets/xeramiya.svg" alt="Xeramiya Logo" width="64px" />
 </a>
 </div>
