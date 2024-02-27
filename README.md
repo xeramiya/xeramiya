@@ -11,7 +11,7 @@ I'm STill here!!
 
 ---
 
-_visit! >> **[xeramiya.net](https://www.xeramiya.net)**_
+_visit! >> **[Xeramiya.net](https://xeramiya.net)**_
 
 <div align="right">
 <a href="https://xeramiya.net">
